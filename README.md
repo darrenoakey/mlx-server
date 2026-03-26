@@ -113,3 +113,7 @@ curl http://localhost:11435/api/pull -d '{
 - `GET /v1/models/{model}` - Get model info
 - `POST /v1/chat/completions` - Chat completions
 - `POST /v1/completions` - Text completions
+
+## License
+
+This project is licensed under [CC BY-NC 4.0](https://darren-static.waft.dev) - free to use and modify, but no commercial use without permission.
